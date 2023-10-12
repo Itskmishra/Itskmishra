@@ -28,9 +28,8 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 * Vscode (Enhance performance)
 
 ## Languages 🌐
-Language 	Proficiency
-English   Conversational
-Hindi 	Native language
+* English   Conversational
+* Hindi 	Native language
 
 ## What I'm currently learning 📚
 Learning micro service architecture.
