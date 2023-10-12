@@ -34,3 +34,18 @@ Hindi 	Native language
 
 ## What I'm currently learning 📚
 Learning micro service architecture.
+
+
+## Projects
+
+### Web Projects
+* [AI SAAS](https://github.com/Itskmishra/A.I-SAAS-Web-App)
+* [Car Hub](https://github.com/Itskmishra/Car_hub)
+* [Dev Hub](https://github.com/Itskmishra/TheDev-Hub-Lading-Website)
+
+### CTF's (Capture the Flag)
+* [Pico CTF](https://github.com/Itskmishra/PicoCTF)
+* [Over The Wire](https://github.com/Itskmishra/OvertheWire_Walkthrough)
+
+### Educational
+* [S3 Docker Setup](https://github.com/Itskmishra/S3-Docker-Setup)
