@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Itskmishra/Itskmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from Delhi, India. Love to work on new things and explore.
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Itskmishra&show_icons=true&theme=default)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I do
+
+I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitHub is free and open to everyone. I am really passionate about doing web development, it is in my opinion the best combination of logical programming and (sometimes) beautiful design.
+
+## My skills 📜
+### Web technologies
+* JavaScript
+* TypeScript
+* Next.js
+* Prisma
+* HTML, CSS
+* Node.js
+* MySQL
+
+### Application Development
+  * Python
+  * React native
+
+### Productivity utilities
+* Notion (Task Management)
+* Vscode (Enhance performance)
+
+## Languages 🌐
+Language 	Proficiency
+English   Conversational
+Hindi 	Native language
+
+## What I'm currently learning 📚
+Learning micro service architecture.
