@@ -85,5 +85,5 @@ Learning micro service architecture.
 
 
 ## Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Itskmishra&show_icons=true&theme=default)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Itskmishra&show_icons=true&theme=dark)
 
