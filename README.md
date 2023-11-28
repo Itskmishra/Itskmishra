@@ -76,6 +76,8 @@ Learning micro service architecture.
 ### CTF's (Capture the Flag)
 * [Pico CTF](https://github.com/Itskmishra/PicoCTF)
 * [Over The Wire](https://github.com/Itskmishra/OvertheWire_Walkthrough)
+* [Hack The Box](https://github.com/Itskmishra/tryhackme-writeups)
+* [Try Hack Me](https://github.com/Itskmishra/tryhackme-writeups)
 
 ### Educational
 * [S3 Docker Setup](https://github.com/Itskmishra/S3-Docker-Setup)
